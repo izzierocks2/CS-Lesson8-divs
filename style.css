@@ -2,12 +2,42 @@
 /*Hint: remember CSS for background colors: background-color: "red"; You need to check the HTML file called "warm-up.html*/
 /*Apply padding: 10px; to each element*/
 
+div{
+    background-color: rgb(247, 247, 168);
+}
+.Animals{
+    background-color: rgb(247, 247, 168);
+    padding: 10px;
+    border: 3px solid gold;
+}
 
+.Plants{
+    background-color: lightgreen;
+    padding: 10px;
+    border: 3px solid green;
+}
+.Domestic{
+    background-color: white;
+    padding: 10px;
+    border: 3px solid gainsboro;
+}
+
+.Wild{
+    background-color: lightcoral;
+    padding: 10px;
+    border: 3px solid red;
+}
 
 
 /* 2. Please style the headings to be blue*/
 
+h2{
+    color: blue;
+}
 
+p {
+    margin-left: 20px;
+}
 
 
 
